@@ -9,7 +9,7 @@ A simple and intuitive React Native app to demonstrate login logout techniques u
     <li>Demonstrates storage of authtoken received from Firebase using state and context</li>
     <li>Demonstrates use of real time Firebase secured database access </li>
     <li>Demonstartes storage the token on the devide to reduce user re-login attampt using <br/>
-    <a href ="https://react-native-async-storage.github.io/async-storage/docs/install/">Async-Storage></a>
+    <a href ="https://react-native-async-storage.github.io/async-storage/docs/install/">Async-Storage</a>
     <a href ="https://github.com/react-native-async-storage/async-storage/tree/main/packages/default-storage">>Source</a>
     <a href ="https://reactnative.directory/?search=storage">>Source</a>
     <a href ="https://reactnative.dev/docs/asyncstorage"/></li>
